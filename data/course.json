@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "966f29fb-49ab-4d1d-4d46-95fd5997eee1",
+  "instructors": {
+    "content": [
+      "93e019fd-a46e-751f-99ea-91010c1f9c00"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e26cc3c3-9f68-1a3f-670f-08faec11a0cf",
+    "website": "18-385j-nonlinear-dynamics-and-chaos-fall-2014"
+  },
+  "course_title": "Nonlinear Dynamics and Chaos",
+  "course_description": "This graduate level course focuses on nonlinear dynamics with applications. It takes an intuitive approach with emphasis on geometric thinking, computational and analytical methods and makes extensive use of demonstration software.\n",
+  "department_numbers": [
+    "18",
+    "2"
+  ],
+  "extra_course_numbers": "2.036J",
+  "primary_course_number": "18.385J",
+  "course_image_thumbnail": {
+    "content": "e848f496-6822-c76e-7c40-8e203d539df4",
+    "website": "18-385j-nonlinear-dynamics-and-chaos-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "57f48399-dd76-436b-88d5-9fc4104655d2",
+  "site_short_id": "18.385j-fall-2014",
+  "site_url_path": "courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014",
+  "title": "Course Metadata"
+}
