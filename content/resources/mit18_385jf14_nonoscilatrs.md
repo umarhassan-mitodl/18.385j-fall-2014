@@ -5,6 +5,8 @@ description: 'This resource contains information regarding weakly nonlinear thin
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/ac55ab241cc3332609e511edb1d7b848_MIT18_385JF14_nonoscilatrs.pdf
 file_size: 327276
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

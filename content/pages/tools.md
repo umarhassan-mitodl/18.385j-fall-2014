@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on using MATLAB for the course and
   a downloadable MATLAB toolkit.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -24,10 +26,10 @@ The three basic commands in MATLAB that you should always remember are:
 
 Below you can find a list of some of the places where help on how to use MATLAB can be found.
 
-*   {{% resource_link "0c242ed7-13d9-456f-a595-7a8630d8b4c9" "Tutorial by Dr. Kermit Sigmon at the University of Florida" %}}
-*   {{% resource_link "a47f8e33-748a-4fd2-abe5-b707adb3fc3b" "A Practical Introduction to MATLAB by Mark S. Gockenbach" %}}
+*   [Tutorial by Dr. Kermit Sigmon at the University of Florida](http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html)
+*   [A Practical Introduction to MATLAB by Mark S. Gockenbach](http://www.math.mtu.edu/~msgocken/intro/intro.html)
 *   {{% resource_link 4dc24517-af11-77b3-f8eb-a76f5e6ddb52 "Short MATLAB Tutorial (PDF)" %}} (Courtesy of Prof. Gil Strang. Used with permission.)
-*   {{% resource_link "e8a497f4-cdf2-4452-b3bf-3c9922816842" "MATLAB Demos by The MathWorks" %}}
+*   [MATLAB Demos by The MathWorks](http://www.mathworks.com/products/matlab/examples.html)
 
 MATLAB Scripts
 --------------

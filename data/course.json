@@ -30,6 +30,7 @@
     "website": "18-385j-nonlinear-dynamics-and-chaos-fall-2014"
   },
   "course_title": "Nonlinear Dynamics and Chaos",
+  "hide_download": true,
   "course_description": "This graduate level course focuses on nonlinear dynamics with applications. It takes an intuitive approach with emphasis on geometric thinking, computational and analytical methods and makes extensive use of demonstration software.\n",
   "department_numbers": [
     "18",
@@ -41,6 +42,7 @@
     "content": "e848f496-6822-c76e-7c40-8e203d539df4",
     "website": "18-385j-nonlinear-dynamics-and-chaos-fall-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

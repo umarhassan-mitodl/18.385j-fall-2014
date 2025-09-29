@@ -36,11 +36,11 @@ A rough idea follows. Some things may be covered in more detail than this implie
 
 ## Textbook
 
-Strogatz, Steven H. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Westview Press, 2014. ISBN: 9780813349107. \[Preview with {{% resource_link "bd035595-bb5a-4b80-b8cf-bf0b4ed381ef" "Google Books" %}}\]
+Strogatz, Steven H. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Westview Press, 2014. ISBN: 9780813349107. \[Preview with [Google Books](http://books.google.com/books?id=jeFVDgAAQBAJ&pg=PAfrontcover)\]
 
 ## References
 
-Wiggins, S. *Introduction to Applied Nonlinear Dynamical Systems and Chaos*. Springer, 2003. ISBN: 9780387001777. (More "mathy" than Strogatz. Used for some topics.) \[Preview with {{% resource_link "6907d8d3-dc53-4c1f-9fbb-dbd765df04e6" "Google Books" %}}\]
+Wiggins, S. *Introduction to Applied Nonlinear Dynamical Systems and Chaos*. Springer, 2003. ISBN: 9780387001777. (More "mathy" than Strogatz. Used for some topics.) \[Preview with [Google Books](http://books.google.com/books?id=GYcOfuZDOKMC&pg=PAfrontcover)\]
 
 Drazin, P. G. *Nonlinear Systems*. Cambridge University Press, 2012. ISBN: 9781139172455.
 
@@ -58,7 +58,7 @@ Guckenheimer, J., and P. Holmes. *Nonlinear Oscillations, Dynamical Systems and 
 
 Lichtenberg, A. J., and M. A. Lieberman. *Regular and Chaotic Dynamics, Applied Mathematical Sciences*. Springer, 1992. ISBN: 9780387977454.
 
-MacKay, R. S., and J. D. Meiss. *Hamiltonian Dynamical Systems: A Reprint Selection*. CRC Press, 1987. ISBN: 9780852742167. \[Preview with {{% resource_link "f8a7baa3-a8fa-4fb5-9dcc-130e7d04e140" "Google Book" %}}\]
+MacKay, R. S., and J. D. Meiss. *Hamiltonian Dynamical Systems: A Reprint Selection*. CRC Press, 1987. ISBN: 9780852742167. \[Preview with [Google Book](http://books.google.com/books?id=a1ToPs9iZlEC&pg=PAfrontcover)\]
 
 ## Problem Sets and Exams
 
