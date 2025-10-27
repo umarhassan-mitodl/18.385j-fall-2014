@@ -5,8 +5,6 @@ description: 'This resource contains information regarding bifurcations: baby no
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/068224e607b5dcde1629732a987ec9f2_MIT18_385JF14_BabyNormlFms.pdf
 file_size: 168450
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

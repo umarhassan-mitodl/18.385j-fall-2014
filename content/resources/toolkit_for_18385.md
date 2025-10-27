@@ -4,8 +4,6 @@ description: This resource is a supporting  tar file.
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/1a1e6458f8ebe306b8be392b5bca879b_Toolkit_for_18385.tar
 file_size: 347648
 file_type: application/x-tar
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

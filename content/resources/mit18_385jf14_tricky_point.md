@@ -5,8 +5,6 @@ description: This resource contains information regarding tricky asymptotics fix
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/252b9c04191407857f471f018a6487f8_MIT18_385JF14_Tricky_Point.pdf
 file_size: 274980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

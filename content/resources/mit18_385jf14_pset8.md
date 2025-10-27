@@ -5,8 +5,6 @@ description: This is a file that contains information regarding nonlinear dynami
 file: /courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/70acbf416799ae7d8bd21f6fa6aacdc8_MIT18_385JF14_Pset8.pdf
 file_size: 216211
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
